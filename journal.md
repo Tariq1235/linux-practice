@@ -12,7 +12,7 @@ Tomorrow I'll learn automation and bash scripting.
 - [I learned the basics of Linux.`mkdir`, `ls`, `cd`, `cp`, `nano`, etc]
 - [Im finally Learning code and able to get a better understanding]
 
-## Commands I practiced
+### Commands I practiced
 ```bash
 cd /etc
 ls -lah
@@ -27,7 +27,7 @@ tree -L 2
 - Moved files between directories
 - Started understanding the power of file structure in projects
 
-## Commands I Practiced
+### Commands I Practiced
 ```bash
 touch file.txt
 mv file.txt renamed.txt
@@ -41,18 +41,18 @@ Note - I learned that mv is also used to rename and not just Move!
 
 ---
 
-### Lesson #3 - Viewing, Editing, and Searching Files
+## Lesson #3 - Viewing, Editing, and Searching Files
  
 ### What I learned
 - Used `cat`, `less`, `head`, `tail`, and `nano`
 - Searched for terms inside files using `grep`
 - Edited `journal.txt` using `nano`
 
-# Commands I Practiced
+### Commands I Practiced
 ```bash
 nano journal.txt
 cat journal.txt
-grep `automation` journal.txt
+`grep "automation"` journal.txt
 
 
 ---
