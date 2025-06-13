@@ -5,7 +5,6 @@ Tomorrow I'll learn automation and bash scripting.
 ### Lesson - #1 - Navigating the Filesystem
 
 
-```md
 ## June 13th 2025 - Lesson #1
 
 
@@ -43,12 +42,7 @@ Note - I learned that mv is also used to rename and not just Move!
 ---
 
 ### Lesson #3 - Viewing, Editing, and Searching Files
-
-
-```md
-## June 13 - Same Day - 
-
-
+ 
 ### What I learned
 - Used `cat`, `less`, `head`, `tail`, and `nano`
 - Searched for terms inside files using `grep`
@@ -65,11 +59,6 @@ grep `automation` journal.txt
 
 ### Lesson#4 - Permissions and Ownership
 
-
-```md
-## June 13th -Same Day-
-
-
 ### What I learned
 - Read and understand `-rw-r--r--` style permissions
 - Used `chmod` to control who can access files
@@ -81,5 +70,6 @@ chmod 700 private-notes
 chmod 744 shared-scripts.sh
 ls -l
 
-Note - Im going to do further practice with Permissions to become 
-comfortable using it when I would really need too.
+Note - Im going to do further practice with Permissions until it becomes 
+second nature - especially since this will be key for automation and 
+security.
