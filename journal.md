@@ -2,8 +2,13 @@ Today on June 13th 2025  I started learning Linux.
 I practiced file commands and directory navigation.
 Tomorrow I'll learn automation and bash scripting.
 
-## June 13th 2025 - Lesson #1
+### Lesson - #1 - Navigating the Filesystem
+
+
 ```md
+## June 13th 2025 - Lesson #1
+
+
 ### What I Learned
 - [I learned the basics of Linux.`mkdir`, `ls`, `cd`, `cp`, `nano`, etc]
 - [Im finally Learning code and able to get a better understanding]
@@ -38,7 +43,12 @@ Note - I learned that mv is also used to rename and not just Move!
 ---
 
 ### Lesson #3 - Viewing, Editing, and Searching Files
+
+
 ```md
+## June 13 - Same Day - 
+
+
 ### What I learned
 - Used `cat`, `less`, `head`, `tail`, and `nano`
 - Searched for terms inside files using `grep`
@@ -54,7 +64,12 @@ grep `automation` journal.txt
 ---
 
 ### Lesson#4 - Permissions and Ownership
+
+
 ```md
+## June 13th -Same Day-
+
+
 ### What I learned
 - Read and understand `-rw-r--r--` style permissions
 - Used `chmod` to control who can access files
